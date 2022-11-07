@@ -1,7 +1,8 @@
 import React from 'react';
+import {Text} from 'react-native';
 
 function Home() {
-  return <div>index</div>;
+  return <Text>Dashbord</Text>;
 }
 
 export default Home;

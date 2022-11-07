@@ -1,7 +1,8 @@
 import React from 'react';
+import {Text} from 'react-native';
 
 function Profile() {
-  return <div>Profile</div>;
+  return <Text>Profile page</Text>;
 }
 
 export default Profile;
